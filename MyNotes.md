@@ -3,7 +3,10 @@
 - [Python Tips and Tricks](#python-tips-and-tricks)
   - [Chapter 01](#chapter-01)
   - [Chapter 02](#chapter-02)
+  - [Chapter 03](#chapter-03)
 
 ## Chapter 01
 
 ## Chapter 02
+
+## Chapter 03
